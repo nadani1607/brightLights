@@ -1,0 +1,25 @@
+{
+  "header": {
+    "menu": [
+      {
+        "label": "About Us",
+        "link": "#preview"
+      },
+      {
+        "label": "Services",
+        "link": "#services"
+      },
+      {
+        "label": "Portfolio",
+        "link": "#portfolio"
+      },
+      {
+        "label": "Blog",
+        "link": "#blog"
+      }
+    ]
+  },
+  "footer": {
+    "title": "footer"
+  }
+}

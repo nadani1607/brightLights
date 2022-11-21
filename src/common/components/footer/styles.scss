@@ -1,0 +1,8 @@
+footer {
+  color: red;
+  font-size: 30px;
+
+  @include media-breakpoint-down(md) {
+    color: green;
+  }
+}
